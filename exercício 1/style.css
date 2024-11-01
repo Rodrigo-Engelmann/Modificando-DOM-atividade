@@ -1,0 +1,26 @@
+body{
+    display: flex;
+    flex-direction: row;
+    cursor: pointer;
+    div{
+        width: 20vw;
+        height: 20vw;
+        margin-left: 2vw;
+        margin-right: 2vw;
+    }
+}
+
+#quadrado1{
+    background-color: blue;
+
+}
+
+#quadrado2{
+    background-color: rgb(255, 0, 217);
+
+}
+
+#quadrado3{
+    background-color: rgb(122, 0, 51);
+
+}
